@@ -8,7 +8,7 @@ This repository accompanies the paper:
 
 ARRC-Net integrates spectral pattern mapping, classification-calibrated spatial affinity refinement, and competitive local reference retrieval for cross-domain few-shot hyperspectral image classification.
 
-![79302209240](C:\Users\29876\AppData\Local\Temp\1793022092406.png)
+![Indian Pines Classification Map](figuresJ.png)
 
 ## Main Modules
 
